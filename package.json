@@ -1,0 +1,23 @@
+{
+  "name": "email_sending_application",
+  "version": "1.0.0",
+  "description": "This is email sending application using nodemailer",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HITARTH3452/Email_Sending_Application.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HITARTH3452/Email_Sending_Application/issues"
+  },
+  "homepage": "https://github.com/HITARTH3452/Email_Sending_Application#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemailer": "^6.9.13"
+  }
+}
